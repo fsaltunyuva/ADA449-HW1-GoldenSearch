@@ -1,2 +1,5 @@
-# ADA449-HW1-GoldenSearch
-Golden Search Implementation Homework in Julia for the ADA449 (Numerical Methods for Data Science) course.
+# ADA449 Numerical Methods for Data Science
+
+## Homework 1 - Golden Section Implementation
+
+The question and test functions are located in the Julia code.
